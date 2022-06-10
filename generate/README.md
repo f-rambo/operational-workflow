@@ -1,0 +1,1 @@
+* 用于生成数据库，action function condition示例代码
